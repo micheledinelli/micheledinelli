@@ -7,6 +7,15 @@
 
 <br>
 
+## Reach me
+
+Try to type 
+
+```
+npx micheledinelli
+```
+in your console 😉
+
 ## About me 
 
 - Runner 🏃‍♂️
