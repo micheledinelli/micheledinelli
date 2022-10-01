@@ -22,7 +22,7 @@ npx micheledinelli
 - Chess player ♜
 - Love rock music and hip-hop 🎶 🎤
 - Plants all over 🌱
-- 
+
 ## My github stats
 
 <br>
