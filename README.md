@@ -14,9 +14,7 @@
 - Chess player ♜
 - Love rock music and hip-hop 🎶 🎤
 - Plants all over 🌱
-
-<br>
-
+- 
 ## My github stats
 
 <br>
