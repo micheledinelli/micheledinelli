@@ -9,12 +9,11 @@
 
 ## Reach me
 
-Try to type 
+Try to type in your console 😉
 
 ```
 npx micheledinelli
 ```
-in your console 😉
 
 ## About me 
 
