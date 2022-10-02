@@ -25,4 +25,5 @@ npx micheledinelli
 
 <br>
 
-![ok](https://github-readme-stats.vercel.app/api/top-langs/?username=micheledinelli)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=micheledinelli.visitor-badge)
+
