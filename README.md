@@ -1,7 +1,7 @@
 
 ## Hi I'm Michele 😄
 
-[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-dinelli-080451214/)
+[![Foo](https://img.shields.io/badge/-micheledinelli-blue?logo=Linkedin)](https://www.linkedin.com/in/michele-dinelli-080451214/)
 
 ## Reach me
 
