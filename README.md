@@ -3,7 +3,7 @@
 
 [![Foo](https://img.shields.io/badge/-micheledinelli-blue?logo=Linkedin)](https://www.linkedin.com/in/michele-dinelli-080451214/)
 
-Try to type in your console 😉
+Try to type this in your console 😉
 
 ```
 npx micheledinelli
