@@ -1,5 +1,5 @@
 
-## Hi I'm Michele 😄
+## Hello, I'm Michele 😄
 
 [![Foo](https://img.shields.io/badge/-micheledinelli-blue?logo=Linkedin)](https://www.linkedin.com/in/michele-dinelli-080451214/)
 
@@ -8,6 +8,11 @@ Try to type in your console 😉
 ```
 npx micheledinelli
 ```
+
+## Working on
+
+- Sentiment Analysis with Python using subreddits data
+- University project involving GWT
 
 ## About me 
 
