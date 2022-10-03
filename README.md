@@ -30,5 +30,4 @@ npx micheledinelli
 
 <br>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=micheledinelli.visitor-badge)
-
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=micheledinelli&repo=github-visitors-badge&countColor=%237B1E7A)
