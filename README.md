@@ -35,7 +35,11 @@ here are some socials
 
 ## My github stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=micheledinelli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=micheledinelli&theme=graywhite&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=micheledinelli&theme=graywhite)](https://git.io/streak-stats)
 
 <br>
 
