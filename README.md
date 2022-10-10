@@ -1,5 +1,5 @@
 
-## Hello, I'm Michele 😄
+## <center>Hello, I'm Michele 😄</center>
 
 [![Foo](https://img.shields.io/badge/-micheledinelli-blue?logo=Linkedin)](https://www.linkedin.com/in/michele-dinelli-080451214/)
 
