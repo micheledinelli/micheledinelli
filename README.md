@@ -24,14 +24,15 @@ Try to type this in your console 👇
 
 ```
 npx micheledinelli
-```
+```  
 
-here are some socials  
+<br>
 
 [![Linkedin badge](https://img.shields.io/badge/-micheledinelli-blue?logo=Linkedin)](https://www.linkedin.com/in/michele-dinelli-080451214/)
 [![Leet code badge](https://img.shields.io/badge/-micheledinelli-white?logo=Leetcode)](https://leetcode.com/michele_dinelli/)
 [![Twitter badge](https://img.shields.io/badge/-micheledinelli-white?logo=Twitter)](https://twitter.com/michele_dinelli)
 [![Reddit badge](https://img.shields.io/badge/-micheledinelli-white?logo=Reddit)](https://www.reddit.com/user/micheledinelli)
+[![Reddit badge](https://img.shields.io/badge/-micheledinelli-white?logo=Gmail)](mailto:dinellimichele00@gmail.com)
 
 ## My github stats
 
