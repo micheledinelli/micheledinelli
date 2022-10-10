@@ -1,13 +1,9 @@
 
-## <div align=center>Hello, I'm Michele 😄</div>
+# <div align=center>Hello, I'm Michele 😄</div>
 
-[![Foo](https://img.shields.io/badge/-micheledinelli-blue?logo=Linkedin)](https://www.linkedin.com/in/michele-dinelli-080451214/)
-
-Try to type this in your console 😉
-
-```
-npx micheledinelli
-```
+I'm 22 years old and I'm Italian ✌️  
+I'm graduating in computer science for management in Bologna (Italy)  
+In the next years I want to deepen my Artificial Intelligence knowoledge following a Master degree!
 
 ## Working on
 
@@ -21,6 +17,21 @@ npx micheledinelli
 - Chess player ♜
 - Love rock music and hip-hop 🎶 🎤
 - Plants all over 🌱
+
+## Reach me
+
+Try to type this in your console 😉
+
+```
+npx micheledinelli
+```
+
+here are some socials  
+
+[![Linkedin badge](https://img.shields.io/badge/-micheledinelli-blue?logo=Linkedin)](https://www.linkedin.com/in/michele-dinelli-080451214/)
+[![Leet code badge](https://img.shields.io/badge/-micheledinelli-white?logo=Leetcode)](https://leetcode.com/michele_dinelli/)
+[![Twitter badge](https://img.shields.io/badge/-micheledinelli-white?logo=Twitter)](https://twitter.com/michele_dinelli)
+[![Reddit badge](https://img.shields.io/badge/-micheledinelli-white?logo=Reddit)](https://www.reddit.com/user/micheledinelli)
 
 ## My github stats
 
