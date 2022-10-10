@@ -20,7 +20,7 @@ In the next years I want to deepen my Artificial Intelligence knowoledge followi
 
 ## Reach me
 
-Try to type this in your console 😉
+Try to type this in your console 👇
 
 ```
 npx micheledinelli
