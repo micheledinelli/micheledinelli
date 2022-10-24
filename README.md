@@ -3,7 +3,7 @@
 
 I'm 22 years old and I'm Italian ✌️  
 I'm graduating in computer science for management in Bologna (Italy)  
-In the next years I want to deepen my Artificial Intelligence knowledge following a Master degree!
+In the next years I want to deepen my Artificial Intelligence knowledge commiting to a Master degree!
 
 ## Working on
 
