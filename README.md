@@ -7,7 +7,7 @@ In the next years I want to deepen my Artificial Intelligence knowledge commitin
 
 ## Working on
 
-- Sentiment Analysis with Python using subreddits data
+- Sentiment Analysis with Python 
 - University project involving GWT
 
 ## About me 
