@@ -17,6 +17,7 @@ In the next years I want to deepen my Artificial Intelligence knowledge commitin
 - Chess player ♜
 - Love rock music and hip-hop 🎶 🎤
 - Plants all over 🌱
+- Guitar apprentice 🎸
 
 ## Reach me
 
