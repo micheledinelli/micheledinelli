@@ -7,7 +7,7 @@ In the next years I want to deepen my Artificial Intelligence knowledge commitin
 
 ## Working on
 
-- Java Spring projects at ![cineca](https://www.cineca.it/)
+- Java Spring projects at [cineca](https://www.cineca.it/)
 - Sentiment Analysis with Python 
 - University project involving GWT
 
