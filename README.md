@@ -1,9 +1,9 @@
 
 # <div align=center>Hello, I'm Michele 😄</div>
 
-I'm 23 years old graduated in computer science at the university of Bologna.
+I'm 23 years old graduated in computer science at the university of Bologna.  
 
-Currently working @Cineca as Backend Software developer.
+Currently working @Cineca as Backend Software developer.  
 
 I love learning and challenging myself with new technologies and languages!
 
