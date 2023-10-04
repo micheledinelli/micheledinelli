@@ -7,11 +7,13 @@ Currently working @Cineca as Backend Software developer.
 
 I love learning and challenging myself with new technologies and languages!
 
-Reach me using
+Use
 
 ```
 npx micheledinelli
-```  
+```
+
+to reach me 😄
 
 ## Working on
 
