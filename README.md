@@ -1,9 +1,15 @@
 
 # <div align=center>Hello, I'm Michele 😄</div>
 
-I'm 22 years old and I'm Italian ✌️  
-I'm graduating in computer science for management in Bologna (Italy)  
-In the next years I want to deepen my Artificial Intelligence knowledge commiting to a Master degree!
+I'm 23 years old graduated in computer science at the university of Bologna.
+Currently working @Cineca as Backend Software developer.
+I love learning and challenging myself with new technologies and languages!
+
+Reach me using
+
+```
+npx micheledinelli
+```  
 
 ## Working on
 
@@ -16,18 +22,8 @@ In the next years I want to deepen my Artificial Intelligence knowledge commitin
 - Gymnastic 🤸🏻
 - Chess player ♜
 - Love rock music and hip-hop 🎶 🎤
-- Plants all over 🌱
+- Plants lover 🌱
 - Guitar apprentice 🎸
-
-## Reach me
-
-Try to type this in your console 👇
-
-```
-npx micheledinelli
-```  
-
-<br>
 
 [![Linkedin badge](https://img.shields.io/badge/-micheledinelli-blue?logo=Linkedin)](https://www.linkedin.com/in/michele-dinelli-080451214/)
 [![Leet code badge](https://img.shields.io/badge/-micheledinelli-white?logo=Leetcode)](https://leetcode.com/michele_dinelli/)
