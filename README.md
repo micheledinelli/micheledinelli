@@ -1,11 +1,7 @@
 
 # <div align=center>Hello, I'm Michele 😄</div>
 
-I'm 23 years old graduated in computer science at the university of Bologna.  
-
-Currently working @Cineca as Backend Software developer.  
-
-I love learning and challenging myself with new technologies and languages!
+I'm 23 years old tech enthusiast. I got my bachelor degree in 2022 Computer Science for Managament in Bologna, and now I'm a master degree student in Computer science in Bologna. I worked @Cineca for 1 year as backend developer and now I'm full time on the university.
 
 Use
 
@@ -13,21 +9,7 @@ Use
 npx micheledinelli
 ```
 
-to reach me 😄
-
-## Working on
-
-- Java Spring projects at [cineca](https://www.cineca.it/)
-- Projects with GoLang
-
-## About me 
-
-- Runner 🏃‍♂️
-- Gymnastic 🤸🏻
-- Chess player ♜
-- Love rock music and hip-hop 🎶 🎤
-- Plants lover 🌱
-- Guitar apprentice 🎸
+to connect 😄
 
 [![Linkedin badge](https://img.shields.io/badge/-micheledinelli-blue?logo=Linkedin)](https://www.linkedin.com/in/michele-dinelli-080451214/)
 [![Leet code badge](https://img.shields.io/badge/-micheledinelli-white?logo=Leetcode)](https://leetcode.com/michele_dinelli/)
