@@ -1,7 +1,32 @@
-[twitter](https://twitter.com/michele_dinelli) • [linkedin](https://www.linkedin.com/in/michele-dinelli-080451214/) • [mail](mailto:dinellimichele00@gmail.com) • [curriculum](https://cv-five-ashen.vercel.app/) • [personal website](micheledinelli.github.io)
+<p align="center">
+<a href="https://twitter.com/michele_dinelli">twitter</a> • <a href="https://www.linkedin.com/in/michele-dinelli-080451214/">linkedin</a> • <a href="mailto:dinellimichele00@gmail.com">mail</a> • <a href="https://cv-five-ashen.vercel.app/">curriculum</a> • <a href="https://michele.dinelli.github.io">personal website</a>
+<p>
+
+&nbsp;
 
 <p align="center">Hello, I'm Michele 😄</p>
 
+&nbsp;
+
 <p align="center">I am a computer science student, passionate about technology and keen on learning new things!</p>
+
+&nbsp;
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheledinelli&layout=compact" />
+</p>
+
+&nbsp;
+
+<p align="center">Recent work</p>
+
+&nbsp;
+
+<p align="center">
+  <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=text-distances" />
+  <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=aculei-be" />
+</p>
+
+&nbsp;
 
 ![profile views](https://komarev.com/ghpvc/?username=mciheledinelli&color=blueviolet)
