@@ -2,6 +2,6 @@
 
 <p align="center">Hello, I'm Michele 😄</p>
 
-I am a computer science student, passionate about technology and keen on learning new things!
+<p align="center">I am a computer science student, passionate about technology and keen on learning new things!</p>
 
 ![profile views](https://komarev.com/ghpvc/?username=mciheledinelli&color=blueviolet)
