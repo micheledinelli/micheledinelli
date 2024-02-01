@@ -23,8 +23,12 @@
 &nbsp;
 
 <p align="center">
-  <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=text-distances" />
-  <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=aculei-be" />
+    <a href="https://github.com/micheledinelli/text-distances">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=text-distances" />
+    </a>
+    <a href="https://github.com/micheledinelli/aculei-be">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=aculei-be" />
+    </a>
 </p>
 
 &nbsp;
