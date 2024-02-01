@@ -18,7 +18,9 @@
 
 &nbsp;
 
-<p align="center">Recent work</p>
+<p align="center">
+    <ins>Recent work</ins>
+</p>
 
 &nbsp;
 
@@ -30,6 +32,15 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=aculei-be" />
     </a>
 </p>
+<p align="center">
+    <ins>Try also</ins> 😉
+</p>
+
+&nbsp;
+
+```zsh
+npx micheledinelli
+```
 
 &nbsp;
 
