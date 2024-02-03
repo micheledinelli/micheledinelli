@@ -18,7 +18,7 @@
 
 &nbsp;
 
-<p align="center">
+<!-- <p align="center">
     <ins>Recent work</ins>
 </p>
 
@@ -31,7 +31,7 @@
     <a href="https://github.com/micheledinelli/aculei-be">
         <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=aculei-be" />
     </a>
-</p>
+</p> -->
 
 &nbsp;
 
