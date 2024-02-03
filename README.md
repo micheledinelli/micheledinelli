@@ -26,10 +26,10 @@
 
 <p align="center">
     <a href="https://github.com/micheledinelli/text-distances">
-        <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=text-distances" />
+        <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=text-distances" />
     </a>
     <a href="https://github.com/micheledinelli/aculei-be">
-        <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=aculei-be" />
+        <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=aculei-be" />
     </a>
 </p>
 
