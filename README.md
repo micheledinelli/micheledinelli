@@ -18,6 +18,12 @@
 
 &nbsp;
 
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=micheledinelli&theme=github-light&hide_border=true&type=png" />
+</p>
+
+&nbsp;
+
 <!-- <p align="center">
     <ins>Recent work</ins>
 </p>
@@ -32,8 +38,6 @@
         <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=micheledinelli&repo=aculei-be" />
     </a>
 </p> -->
-
-&nbsp;
 
 <p align="center">
     <ins>Try also</ins> 😉
