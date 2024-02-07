@@ -18,12 +18,6 @@
 
 &nbsp;
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=micheledinelli&theme=github-light&hide_border=true&type=png" />
-</p>
-
-&nbsp;
-
 <!-- <p align="center">
     <ins>Recent work</ins>
 </p>
