@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://twitter.com/michele_dinelli">twitter</a> • <a href="https://www.linkedin.com/in/michele-dinelli-080451214/">linkedin</a> • <a href="mailto:dinellimichele00@gmail.com">mail</a> • <a href="https://cv-five-ashen.vercel.app/">curriculum</a> • <a href="https://michele.dinelli.github.io">personal website</a>
+<a href="https://twitter.com/michele_dinelli">twitter</a> • <a href="https://www.linkedin.com/in/michele-dinelli-080451214/">linkedin</a> • <a href="mailto:dinellimichele00@gmail.com">mail</a> • <a href="https://cv-five-ashen.vercel.app/">curriculum</a> • <a href="https://micheledinelli.github.io">personal website</a>
 <p>
 
 &nbsp;
